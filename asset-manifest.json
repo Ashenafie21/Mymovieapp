@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mymovieapp/static/css/main.8706b80b.css",
+    "main.js": "/mymovieapp/static/js/main.9a80639d.js",
+    "static/media/netflixlogo.png": "/mymovieapp/static/media/netflixlogo.774e8c1632ac9433608b.png",
+    "index.html": "/mymovieapp/index.html",
+    "main.8706b80b.css.map": "/mymovieapp/static/css/main.8706b80b.css.map",
+    "main.9a80639d.js.map": "/mymovieapp/static/js/main.9a80639d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8706b80b.css",
+    "static/js/main.9a80639d.js"
+  ]
+}
